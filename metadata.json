@@ -1,0 +1,9 @@
+
+{
+  "name": "Dolce Vita Patisserie - Cake Portfolio",
+  "description": "An elegant portfolio website for a luxury cake shop featuring a curated gallery of 20 exquisite cakes, intelligent search, and an AI-powered cake consultant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
